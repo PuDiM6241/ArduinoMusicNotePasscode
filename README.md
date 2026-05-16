@@ -2,6 +2,11 @@ Descrição detalhada
 
 O projeto consiste em um passcode musical desenvolvido em C++ para Arduino Uno utilizando um display LCD 16x2 com caracteres personalizados para representar notas musicais em uma pauta.
 
+O projeto foi desenvolvido e testado virtualmente utilizando o Tinkercad
+arquivo com detalhes desse projeto usa a extensao .BRD
+<img width="1252" height="799" alt="image" src="https://github.com/user-attachments/assets/98abbec1-2684-4fa8-ae28-87cf1227b155" />
+
+
 O sistema possui:
 
 Seleção de notas através de potenciômetro analógico
